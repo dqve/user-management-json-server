@@ -1,9 +1,9 @@
 {
   "users": [
-    { "id": '1', "name": 'daddy', "email": 'daddy', "password": 'daddy', "admin": true, "approved": true, "status": "success" },
-    { "id": '2', "name": 'david', "email": 'david', "password": 'david', "admin": false, "approved": false, "status": "failed" },
+    { "id": "1", "name": "daddy", "email": "daddy", "password": "daddy", "admin": true, "approved": true, "status": "success" },
+    { "id": "2", "name": "david", "email": "david", "password": "david", "admin": false, "approved": false, "status": "failed" },
   ],
   "profile": {
-    "name": 'daddy david',
+    "name": "daddy david",
   },
 }
